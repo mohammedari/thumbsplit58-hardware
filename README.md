@@ -31,13 +31,12 @@ It may be printable by FDM printers, but probably requires additional work.
 ## Gerber files
 
 Gerber files are available under [gerber](gerber) directory. 
-The archives follow Fusion PCB's design guideline and output instruction.
+These archives follow Fusion PCB's design guideline and output instruction.
 
 ## Schematics
 
-Gerber files are available under [pdf](pdf) directory. 
-- [Right half](thumb-split-right/pdf/thumb-split-right-v1.0.pdf)
-- [Left half](thumb-split-left/pdf/thumb-split-left-v1.0.pdf)
+- [Right half](schematic/thumb-split-right-v1.0.pdf)
+- [Left half](schematic/thumb-split-left-v1.0.pdf)
 
 ## Parts list
 
