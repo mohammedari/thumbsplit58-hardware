@@ -1,5 +1,5 @@
 # Thumbsplit58 hardware
-File archive for Thumbsplit58 keyboard PCB and case.
+File archive for Thumbsplit58 keyboard PCB and case. You may also want to refer [Nordic MCU firmware](https://github.com/mohammedari/thumbsplit58-firmware) and [qmk_firmware](https://github.com/mohammedari/qmk_firmware/blob/oneoff/thumbsplit58/keyboards/thumbsplit58/) repository.
 
 ![teaser](doc/teaser.jpg)
 
@@ -9,7 +9,7 @@ You can use [Comet46's receiver gerber files](https://github.com/satt100/comet46
 ## Top plates
 
 Top plate DXF files are available under [dxf](dxf) directory.
-This desin is intended to be milled using 2mm endmill, 
+This design is intended to be milled using 2mm endmill, 
 but it should be manufacturable by laser cutters.
 
 |                        | Left                                 | Right                                  |
