@@ -20,8 +20,8 @@ but it should be manufacturable by laser cutters.
 ## Case
 
 Case STL files are available under [stl](stl) directory.
-This design is intended to be 3D printed using SLS or DLP printer.
-It may be printable by FDM printers, but probably requires additional work.
+This design is intended to be 3D printed using SLS (Selective Laser Sintering) or SLA (Stereolithography) printer.
+It may be printable by FDM (Fused Deposition Modeling) printers, but probably requires additional work.
 
 |               | Left                                   | Right                                    |
 | ------------- | -------------------------------------- | ---------------------------------------- |
